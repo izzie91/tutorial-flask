@@ -1,0 +1,7 @@
+Si queremos cambiar el puerto por cualquier motivo lo podemos hacer de dos formas distintas:
+
+Estableciendo la variable de entorno FLASK_RUN_PORT en un puerto diferente.
+Indicando el puerto al lanzar el servidor flask run --port 6000
+
+Modo debug
+flask run --debug
